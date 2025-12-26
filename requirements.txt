@@ -1,0 +1,7 @@
+functions-framework==3.5.0
+google-cloud-bigquery
+
+cloud-sql-python-connector
+google-cloud-firestore==2.22.0
+pymysql
+
